@@ -4,6 +4,8 @@ This project utilizes a CI/CD pipeline to automate the deployment of my personal
 
 ![Jenkins CI_CD Portfolio drawio](https://github.com/iamdhrutipatel/Jenkins-CI-CD-Pipeline-for-Portfolio/assets/58872872/0cd5b9f7-4f42-455b-9087-224f54cbf20f)
 
+Icons by [icons8](https://icons8.com)
+
 ## Architecture
 The following components make up the pipeline:
 
