@@ -4448,3 +4448,44 @@ h4:hover {
     margin-bottom: 20px;
   }
 }
+
+footer {
+  text-align: center;
+  padding: 20px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  font-size: small;
+}
+
+footer a {
+  color: #111;
+}
+
+footer a:visited {
+  color: #111;
+}
+
+@media only screen and (max-width: 600px) {
+  footer {
+    padding: 15px;
+  }
+}
+
+@media only screen and (min-width: 601px) and (max-width: 768px) {
+  footer {
+    padding: 18px;
+  }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+  footer {
+    padding: 22px;
+  }
+}
+
+@media only screen and (min-width: 1025px) {
+  footer {
+    padding: 25px;
+  }
+}
