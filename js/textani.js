@@ -3,7 +3,8 @@ document.addEventListener("DOMContentLoaded", function (event) {
   var dataText = [
     "DEVELOPER",
     "SOFTWARE ENGINEER",
-    "BACKEND & FULL-STACK",
+    "FULL-STACK",
+    "DEVOPS",
     "QUALITY KNOWN BY ENGINEER",
     "COMPUTER SCIENCE GRAD",
   ];
