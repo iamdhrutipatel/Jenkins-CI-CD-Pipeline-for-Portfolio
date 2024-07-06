@@ -21,7 +21,7 @@ The following components make up the pipeline:
 2. **Webhooks:** GitHub webhooks automatically notify Jenkins to start a new build.
 3. **Build and Test:** Jenkins retrieves the latest code and executes defined jobs to build and test the application.
 4. **Containerization:** If tests pass, Jenkins uses Ansible to build a Docker container.
-5. **Deployment:** The Docker container is deployed to AWS EC2 instances.
+5. **Deployment:** The Docker container is deployed to AWS EC2 instance.
 6. **Routing Traffic:** AWS Route53 routes incoming traffic to the docker instance.
 
 ## License
